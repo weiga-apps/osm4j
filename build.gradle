@@ -4,7 +4,7 @@ wrapper {
 
 allprojects {
     group = 'de.topobyte'
-    version = '1.2.0'
+    version = '1.2.1'
 }
 
 // leaving this here for reference on how to modify
